@@ -9,7 +9,7 @@ Scripts bound to hotkeys use the following commands:
 - **[ITEM:ID,ID...] :** Click on multiple inventory items, using a list of item IDs separated by commas. Example : **[ITEM:1234,420,6969]
 - **[SPELL:SPELL_NAME] :** Cast a spell with the specified name. Example : **[SPELL:ICE_BARRAGE]** 
 - **[SPEC:NUMBER] :** Activate special attack the specified number of times. This will usually be **[SPEC:1]**. The only time **[SPEC:2]** should be used is for activating the special attack of the [Granite maul(or)](https://oldschool.runescape.wiki/w/Granite_maul_(or)) twice.
-- **[PRAY:PRAYER_NAME] :** Toggle the specified prayer on or off. Examples : **[PRAY:PIETY], [PRAY:PIETY,PROTECTION_FROM_MELEE]**
+- **[PRAY:PRAYER_NAME] :** Toggle the specified prayer on or off. Examples : **[PRAY:PIETY], [PRAY:PIETY,PROTECT_FROM_MELEE]**
 - **[PRAYON:PRAYER_NAME] :** Activate the specified prayer if it is off. If it is already on, do nothing. Example : **[PRAYON:PIETY]**
 - **[PRAYOFF:PRAYER_NAME] :** Deactivate the specified prayer if it is on. If it is already off do nothing. Example : **[PRAYOFF:PIETY]
 - **[POT:POTION_NAME] :** Find the specified potion if it's in your inventory and click on it. This prioritizes the potions with the lowest number of doses. Example : **[POT:SUPER_RESTORE]**
