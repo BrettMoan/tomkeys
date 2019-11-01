@@ -28,7 +28,6 @@ A demonstration of the plugin in action and a more comprehensive tutorial for us
 
 ## Upcoming Features:
 - Quick prayer hotkey.
-- Hotkey to toggle other hotkeys on/off.
 - Presets for groups of scripts, functioning similarly to the inventory setups plugin in the OpenOSRS client.
 
 ## This is GitHub, where's the source?
