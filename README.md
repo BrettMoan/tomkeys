@@ -11,7 +11,7 @@ Scripts bound to hotkeys use the following commands:
 - **[SPEC:NUMBER] :** Activate special attack the specified number of times. This will usually be **[SPEC:1]**. The only time **[SPEC:2]** should be used is for activating the special attack of the [Granite maul(or)](https://oldschool.runescape.wiki/w/Granite_maul_(or)) twice.
 - **[PRAY:PRAYER_NAME] :** Toggle the specified prayer on or off. Examples : **[PRAY:PIETY], [PRAY:PIETY,PROTECT_FROM_MELEE]**
 - **[PRAYON:PRAYER_NAME] :** Activate the specified prayer if it is off. If it is already on, do nothing. Example : **[PRAYON:PIETY]**
-- **[PRAYOFF:PRAYER_NAME] :** Deactivate the specified prayer if it is on. If it is already off do nothing. Example : **[PRAYOFF:PIETY]
+- **[PRAYOFF:PRAYER_NAME] :** Deactivate the specified prayer if it is on. If it is already off do nothing. Example : **[PRAYOFF:PIETY]**
 - **[POT:POTION_NAME] :** Find the specified potion if it's in your inventory and click on it. This prioritizes the potions with the lowest number of doses. Example : **[POT:SUPER_RESTORE]**
 - **[TAB:TAB NAME] :** Press the hotkey to switch to switch to the specified tab. Example: **[TAB:INVENTORY]**
 
